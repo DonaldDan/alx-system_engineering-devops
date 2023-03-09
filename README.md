@@ -1,1 +1,0 @@
-Alx Bash Scripting project
