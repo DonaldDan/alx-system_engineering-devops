@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATH | TR ':' '\n' wc-1
